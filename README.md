@@ -81,3 +81,6 @@ It proposes questions.
 Human stewards evaluate those questions and guide further investigation.
 
 Akasha Discovery Core exists to help humans explore knowledge more effectively.
+
+
+This repository participates in the Akasha ecosystem and is described by repo-manifest.yaml.
