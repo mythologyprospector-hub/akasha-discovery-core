@@ -72,4 +72,5 @@ status:
   active: true
 role: core
 domain: systems
-depends_on: []
+depends_on:
+- akasha-world
