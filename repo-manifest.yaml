@@ -74,3 +74,8 @@ role: core
 domain: systems
 depends_on:
 - akasha-world
+
+engine:
+  family: discovery
+  class: discovery_engine
+  role: unknown
